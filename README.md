@@ -7,17 +7,12 @@ This is a full stack template using FastAPI and Next.js.
 - deploy frontend with [cloudflare pages][2]
 
 
-## Deploy
+## Dependencies
 
-deploy api
-```
-make api
-```
-
-deploy frontend
-```
-make ui
-```
+Command line tools:
+- [flyctl](https://fly.io/docs/flyctl/install/)
+- [pnpm](https://pnpm.io/installation)
+- [wrangler](https://developers.cloudflare.com/workers/wrangler/install-and-update/)
 
 ## Services ops
 
@@ -65,6 +60,17 @@ deploy project with cloudflare pages , See this file [Makefile][3]
 make ui # deploy ui
 ```
 
+## Deploy
+
+deploy api
+```
+make api
+```
+
+deploy frontend
+```
+make ui
+```
 
 ## Support
 
