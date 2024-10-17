@@ -101,7 +101,6 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 venv/
 ENV/
 env.bak/
@@ -134,7 +133,6 @@ cython_debug/
 
 # Log files and folders
 logs/
-*.log
 !/frontend/
 
 
@@ -156,3 +154,6 @@ env/
 
 # sed
 *-e
+
+# cloudflare
+.wrangler/
