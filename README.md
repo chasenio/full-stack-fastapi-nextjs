@@ -1,4 +1,10 @@
-# Full Stack With FastAPI & Next.js
+- [Full Stack With FastAPI \& Next.js](#full-stack-with-fastapi--nextjs)
+- [Dependencies](#dependencies)
+- [Services ops](#services-ops)
+- [Deploy](#deploy)
+- [Support](#support)
+
+## Full Stack With FastAPI & Next.js
 
 This is a full stack template using FastAPI and Next.js.
 
@@ -16,7 +22,7 @@ Command line tools:
 
 ## Services ops
 
-### api
+**api**
 
 create your app with fly.io
 
@@ -46,7 +52,7 @@ example:
 - `main.py` will read consul config; see [config.py][4]
 
 
-### ui
+**ui**
 
 create project with cloudflare pages
 
@@ -76,7 +82,7 @@ make ui
 
 If you like this project, please consider supporting me for coffee ☕️
 
-[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://www.buymeacoffee.com/chasengao) [![get youtself link](https://img.shields.io/badge/get%20youtself%20link-buymeacoffee-orange.svg)](https://www.buymeacoffee.com/invite/chasengao)
+[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20-coffee-%2322BC18.svg)](https://www.buymeacoffee.com/chasengao) [![get youtself link](https://img.shields.io/badge/get%20youtself%20link-buymeacoffee-orange.svg)](https://www.buymeacoffee.com/invite/chasengao)
 
 
 [1]: https://fly.io
